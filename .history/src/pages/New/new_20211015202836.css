@@ -1,0 +1,8 @@
+form textarea{
+    height: 105px;
+    resize: none;
+}
+
+form input[type="radio"]{
+    margin: 15px 0;
+}

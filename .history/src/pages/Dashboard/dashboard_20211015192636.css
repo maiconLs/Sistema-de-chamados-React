@@ -1,0 +1,17 @@
+.dashboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dashboard span{
+    margin: 2em 0;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.new{
+    float: right;
+    mar
+}

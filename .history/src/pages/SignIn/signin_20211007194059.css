@@ -1,0 +1,15 @@
+.container-center{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+}
+
+.login{
+    background: #eaeaec;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    ju
+}
