@@ -4,12 +4,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #121212;
+  background-color: rgb(182, 180, 180);
 }
 
 .login{
   background: #EAEAEC;
   width: 600px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,14 +20,16 @@
 .login-area{
   display: flex;
   justify-content: center;
-  background-color: #181c2e;
+  background-color: #000;
   width: 100%;
+  border-radius: 10px 10px 0 0;
 }
 
 .login-area img{
   padding: 20px;
   width: 170px;
   height: 130px;
+  
 }
 
 form{
@@ -56,7 +59,7 @@ form button{
   height: 35px;
   border:0;
   border-radius: 7px;
-  background-color: #181c2e;
+  background-color: #3084f1;
   color: #FFF;
   font-size: 1.3em;
 }
